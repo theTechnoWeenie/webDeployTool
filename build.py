@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python
 #builder.py
 
 import shutil
